@@ -123,6 +123,8 @@ Hal yang perlu diperhatikan:
 - Proyek Apache (ant, camel, lucene, poi) mengikuti lisensi masing-masing.
 - Alat: [PyDriller](https://github.com/ishepard/pydriller), [Lizard](https://github.com/terryyin/lizard), [PMD](https://pmd.github.io), [scikit-learn](https://scikit-learn.org), [XGBoost](https://xgboost.ai), [SHAP](https://github.com/shap/shap), [Streamlit](https://streamlit.io).
 
-## Lisensi
+## License
 
-[Pilih lisensi, misalnya MIT, lalu tambahkan file LICENSE.]
+This project is licensed under the [MIT License](LICENSE).
+
+See the [LICENSE](LICENSE) file for details.
