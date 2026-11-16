@@ -1,0 +1,40 @@
+{
+  "features": [
+    "wmc",
+    "dit",
+    "noc",
+    "cbo",
+    "rfc",
+    "lcom",
+    "ca",
+    "ce",
+    "npm",
+    "lcom3",
+    "loc",
+    "dam",
+    "moa",
+    "mfa",
+    "cam",
+    "ic",
+    "cbm",
+    "amc",
+    "max_cc",
+    "avg_cc",
+    "p_change_freq",
+    "p_lines_added",
+    "p_lines_deleted",
+    "p_churn",
+    "p_n_authors",
+    "p_recency_days",
+    "p_fix_commits"
+  ],
+  "log1p_features": [
+    "p_change_freq",
+    "p_lines_added",
+    "p_lines_deleted",
+    "p_churn",
+    "p_n_authors",
+    "p_recency_days",
+    "p_fix_commits"
+  ]
+}
