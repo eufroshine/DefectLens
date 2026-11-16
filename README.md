@@ -32,7 +32,7 @@ Proyek ini adalah bagian dari penelitian skripsi (Software Engineering). **Statu
 ## Instalasi
 
 ```bash
-git clone <url-repository-ini>
+git clone https://github.com/eufroshine/DefectLens
 cd defectlens
 python -m venv .venv
 .venv\Scripts\activate
