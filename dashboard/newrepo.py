@@ -20,7 +20,7 @@ import pandas as pd
 from pydriller import Repository
 from sklearn.ensemble import RandomForestClassifier
 
-import core
+from dashboard import core
 
 DATA = "data/processed"
 NEW_REPOS = "data/raw/new_repos"
